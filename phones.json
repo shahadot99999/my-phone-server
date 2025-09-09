@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "iPhone 15 Pro",
+    "description": "Latest flagship iPhone with titanium design, A17 Pro chip, and advanced camera system.",
+    "image": "iphone15pro.jpg",
+    "price": 999.00
+  },
+  {
+    "id": 2,
+    "name": "Samsung Galaxy S23 Ultra",
+    "description": "Premium Android phone with S Pen, 200MP camera, and Snapdragon 8 Gen 2 processor.",
+    "image": "s23ultra.jpg",
+    "price": 1199.99
+  },
+  {
+    "id": 3,
+    "name": "Google Pixel 8 Pro",
+    "description": "Google's flagship with Tensor G3 chip, advanced AI features, and exceptional camera software.",
+    "image": "pixel8pro.jpg",
+    "price": 999.00
+  },
+  {
+    "id": 4,
+    "name": "OnePlus 11",
+    "description": "High-performance phone with Hasselblad camera, Snapdragon 8 Gen 2, and fast charging.",
+    "image": "oneplus11.jpg",
+    "price": 699.99
+  },
+  {
+    "id": 5,
+    "name": "Xiaomi 13 Pro",
+    "description": "Feature-packed phone with Leica camera, Snapdragon 8 Gen 2, and 120Hz AMOLED display.",
+    "image": "xiaomi13pro.jpg",
+    "price": 1299.99
+  }
+]
